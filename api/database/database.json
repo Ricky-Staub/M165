@@ -26,6 +26,69 @@
       "password": "$2y$10$1wWWb1TGvXr03pBH6flWSe2a1cSY3hsXdjxwIQkbrfb8sNbb2aF12",
       "profileImage": "",
       "role": "ADMIN"
+    },
+    {
+      "id": "b5c180e9-7186-445a-a57e-c91c1b8f2d75",
+      "firstName": "Guest 1",
+      "lastName": "Guest 1",
+      "email": "guest1@todo.ch",
+      "password": "$2y$10$gXTW1UigGpXfyr.YXZ9ydO9TEfmgiOsOX2nnN4XpS8NPPMyWe4r9S",
+      "profileImage": "",
+      "role": "GUEST"
+    },
+    {
+      "id": "785eedd7-50d9-4ee0-ac8d-abbd0a3f1549",
+      "firstName": "Guest 2",
+      "lastName": "Guest 2",
+      "email": "guest2@todo.ch",
+      "password": "$2y$10$gXTW1UigGpXfyr.YXZ9ydO9TEfmgiOsOX2nnN4XpS8NPPMyWe4r9S",
+      "profileImage": "",
+      "role": "GUEST"
+    },
+    {
+      "id": "4b5a2d8d-1a49-451e-a90b-5f79e8546834",
+      "firstName": "Guest 3",
+      "lastName": "Guest 3",
+      "email": "guest3@todo.ch",
+      "password": "$2y$10$gXTW1UigGpXfyr.YXZ9ydO9TEfmgiOsOX2nnN4XpS8NPPMyWe4r9S",
+      "profileImage": "",
+      "role": "GUEST"
+    },
+    {
+      "id": "38129264-c73f-4cfe-9201-9750c5a97496",
+      "firstName": "Guest 4",
+      "lastName": "Guest 4",
+      "email": "guest4@todo.ch",
+      "password": "$2y$10$gXTW1UigGpXfyr.YXZ9ydO9TEfmgiOsOX2nnN4XpS8NPPMyWe4r9S",
+      "profileImage": "",
+      "role": "GUEST"
+    },
+    {
+      "id": "f99f3566-851c-4e91-9f1a-9d08dde12902",
+      "firstName": "Guest 5",
+      "lastName": "Guest 5",
+      "email": "guest5@todo.ch",
+      "password": "$2y$10$gXTW1UigGpXfyr.YXZ9ydO9TEfmgiOsOX2nnN4XpS8NPPMyWe4r9S",
+      "profileImage": "",
+      "role": "GUEST"
+    },
+    {
+      "id": "85b68c20-cbfa-4f8f-ac04-c20b8be478c7",
+      "firstName": "Guest 6",
+      "lastName": "Guest 6",
+      "email": "guest6@todo.ch",
+      "password": "$2y$10$gXTW1UigGpXfyr.YXZ9ydO9TEfmgiOsOX2nnN4XpS8NPPMyWe4r9S",
+      "profileImage": "",
+      "role": "GUEST"
+    },
+    {
+      "id": "bf0a5f45-2e4f-43f3-b601-bc3cb3df8d11",
+      "firstName": "Guest 7",
+      "lastName": "Guest 7",
+      "email": "guest7@todo.ch",
+      "password": "$2y$10$gXTW1UigGpXfyr.YXZ9ydO9TEfmgiOsOX2nnN4XpS8NPPMyWe4r9S",
+      "profileImage": "",
+      "role": "GUEST"
     }
   ],
   "todos": [
