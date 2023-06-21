@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "id": "7929d773-dded-4b5c-a313-8b3143cdf69c",
+      "firstName": "User",
+      "lastName": "User",
+      "email": "user@todo.ch",
+      "password": "$2y$10$CMRWsEhzajZwM6cgBK8kBeAtm1gs4h0enc0hL1caWwOoJEIpuRo.6",
+      "profileImage": "",
+      "role": "USER"
+    },
+    {
+      "id": "03132939-cad0-4610-b811-963b5bbe27e9",
+      "firstName": "Dev",
+      "lastName": "Dev",
+      "email": "dev@todo.ch",
+      "password": "$2y$10$5vV9hWREPAN1jfAdbKnrmODyiqEvf86F1I0SE8QsiCUNxC3SPG6LW",
+      "profileImage": "",
+      "role": "DEV"
+    },
+    {
+      "id": "b5d7bfa5-722f-4f69-85eb-da2392ca07f1",
+      "firstName": "Admin",
+      "lastName": "Admin",
+      "email": "admin@todo.ch",
+      "password": "$2y$10$1wWWb1TGvXr03pBH6flWSe2a1cSY3hsXdjxwIQkbrfb8sNbb2aF12",
+      "profileImage": "",
+      "role": "ADMIN"
+    }
+  ],
+  "todos": [
+    {
+      "id": "c1d40c03-2b78-4656-a9d2-c4eb0164e72c",
+      "title": "Todo 1",
+      "description": "Description of the 1. todo",
+      "image": "",
+      "date": "2023.6.8",
+      "time": "10:35",
+      "userId": "03132939-cad0-4610-b811-963b5bbe27e9"
+    },
+    {
+      "id": "e2b99d1a-7fe0-42da-9a12-57fd297af069",
+      "title": "Todo 2",
+      "description": "Description of the 2. todo",
+      "image": "",
+      "date": "2023.6.8",
+      "time": "10:36",
+      "userId": "03132939-cad0-4610-b811-963b5bbe27e9"
+    },
+    {
+      "id": "2543ce14-7bd4-49d5-baa5-1a4189b3204c",
+      "title": "Todo 3",
+      "description": "Description of the 3. todo",
+      "image": "",
+      "date": "2023.6.8",
+      "time": "10:37",
+      "userId": "03132939-cad0-4610-b811-963b5bbe27e9"
+    },
+    {
+      "id": "d5e7b200-3b64-45c9-be30-1a24636911b9",
+      "title": "Todo 4",
+      "description": "Description of the 4. todo",
+      "image": "",
+      "date": "2023.6.8",
+      "time": "10:38",
+      "userId": "03132939-cad0-4610-b811-963b5bbe27e9"
+    },
+    {
+      "id": "f75d7348-69ba-420c-a728-a4e36e7a2a9d",
+      "title": "Todo 5",
+      "description": "Description of the 5. todo",
+      "image": "",
+      "date": "2023.6.8",
+      "time": "10:39",
+      "userId": "03132939-cad0-4610-b811-963b5bbe27e9"
+    },
+    {
+      "id": "0797584c-7edc-474c-bc75-7e9eb6338f97",
+      "title": "Todo 6",
+      "description": "Description of the 6. todo",
+      "image": "",
+      "date": "2023.6.8",
+      "time": "10:40",
+      "userId": "03132939-cad0-4610-b811-963b5bbe27e9"
+    },
+    {
+      "id": "09d469ba-0ef7-4ce1-905d-5d20a8edef4f",
+      "title": "Todo 7",
+      "description": "Description of the 7. todo",
+      "image": "",
+      "date": "2023.6.8",
+      "time": "10:41",
+      "userId": "03132939-cad0-4610-b811-963b5bbe27e9"
+    },
+    {
+      "id": "3e409a1b-410b-4b38-9062-5e80971fabc4",
+      "title": "Todo 8",
+      "description": "Description of the 8. todo",
+      "image": "",
+      "date": "2023.6.8",
+      "time": "10:42",
+      "userId": "03132939-cad0-4610-b811-963b5bbe27e9"
+    },
+    {
+      "id": "1566c68b-7a09-411f-b42e-3870251ac54e",
+      "title": "Todo 9",
+      "description": "Description of the 9. todo",
+      "image": "",
+      "date": "2023.6.8",
+      "time": "10:43",
+      "userId": "03132939-cad0-4610-b811-963b5bbe27e9"
+    },
+    {
+      "id": "099c64bc-9284-4680-a754-8a6975fe649c",
+      "title": "Todo 10",
+      "description": "Description of the 10. todo",
+      "image": "",
+      "date": "2023.6.8",
+      "time": "10:44",
+      "userId": "03132939-cad0-4610-b811-963b5bbe27e9"
+    }
+  ]
+}
