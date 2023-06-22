@@ -52,7 +52,6 @@ export default function SearchBar({ users }) {
         <FormControl
           type="search"
           placeholder="Search"
-          className="me-2"
           aria-label="Search"
           onChange={handleChange}
         />
